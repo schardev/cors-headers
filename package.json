@@ -1,6 +1,6 @@
 {
   "name": "cors-headers",
-  "version": "0.0.0-beta.0",
+  "version": "1.0.0",
   "description": "A CORS module using standard browser API",
   "author": "Saurabh Charde <saurabhchardereal@gmail.com>",
   "license": "MIT",
