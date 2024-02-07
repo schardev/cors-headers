@@ -6,13 +6,13 @@ A browser compatible package for providing a middleware-like function that can b
 
 - [Installation](#installation)
 - [Usage](#usage)
-  - [Usage](#simple-usage-enable-all-cors-requests)
   - [Configuring CORS](#configuring-cors)
   - [Configuring CORS with Dynamic Origin](#configuring-cors-w-dynamic-origin)
   - [Enabling CORS Pre-Flight](#enabling-cors-pre-flight)
   - [Configuring CORS Asynchronously](#configuring-cors-asynchronously)
 - [Configuration Options](#configuration-options)
 - [License](#license)
+- [Acknowledgement](#acknowledgement)
 
 ## Installation
 
