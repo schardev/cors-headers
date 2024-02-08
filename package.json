@@ -12,7 +12,9 @@
     "./dist"
   ],
   "scripts": {
-    "build": "rm -rf ./dist && bun build src/index.ts --outdir=dist && bun tsc"
+    "build": "rm -rf ./dist && bun build src/index.ts --outdir=dist && bun tsc",
+    "coverage": "bun test --coverage",
+    "format": "prettier --write ."
   },
   "exports": {
     ".": {
